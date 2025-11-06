@@ -1,0 +1,8 @@
+1. Data Ingestion : Read the Data
+2. EDA : Exploratory Data Analysis
+3. Data Preparation : Data cleaning, Feature Engineering
+4. Dividing Data : Divide the data into X and Y where X is IV and Y is DV
+5. Train-Test_Split
+6. Scaling the data : Standardization or Normalization
+7. Model Training
+8. Model Evaluation
